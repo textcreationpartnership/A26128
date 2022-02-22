@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some reasons why the people called Quakers ought to enjoy their meetings peaceably published for the information of those who are not acquainted with their way, and to prevent mistakes concerning them.</title>
+            <author>Atkin, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26128</idno>
+            <idno type="STC">Wing A4124</idno>
+            <idno type="STC">ESTC R35730</idno>
+            <idno type="EEBO-CITATION">15553695</idno>
+            <idno type="OCLC">ocm 15553695</idno>
+            <idno type="VID">103693</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103693)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1582:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some reasons why the people called Quakers ought to enjoy their meetings peaceably published for the information of those who are not acquainted with their way, and to prevent mistakes concerning them.</title>
+                  <author>Atkin, Thomas.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Thomas Atkin.</note>
+                  <note>Reproduction of the original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Apologetic works.</term>
+               <term>Liberty of conscience --  England.</term>
+               <term>Freedom of religion --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:103693:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>SOME REASONS WHY The People called Quakers, Ought to enjoy their Meetings Peaceably.</head>
+            <head type="sub">Publiſhed for the Information of thoſe, who are not acquainted with their Way, and to prevent Miſtakes concerning them.</head>
+            <p>KNowing the Purity of the abovenamed Peoples Principles, together with the Integrity of their Lives; I drew forth this <hi>Teſtimony</hi> concerning them: Though they lie at the preſent under Reſtraint, yet innocently many of them, who are real Friends to this Nation, lie in Priſon; ſome upon Straw, and ſome upon the bare Ground (or Boards) to bear witneſs, and to te<g ref="char:EOLhyphen"/>ſtifie that they have Right <hi>to Meet.</hi>
+            </p>
+            <p n="1">
+               <hi>I.</hi> Becauſe for their Liberty to Meet in the Exerciſes of their ten<g ref="char:EOLhyphen"/>der Conſciences, they have the Word of God for it; Seconded by the Word of a <hi>King</hi> (yea of <hi>King Charles the Second</hi>) therefore they have Right <hi>to Meet.</hi>
+            </p>
+            <p n="2">
+               <hi>II.</hi> Though the King's <hi>Proclamation</hi> doth forbid <hi>unlawful</hi> and <hi>Seditious Meetings;</hi> yet ſeeing the <hi>Quakers</hi> made no ill uſe of their opportunities in Meeting together (neither was the <hi>Proclamation</hi> occaſioned through any miſcarriage in them) therefore they ought <hi>to Meet.</hi>
+            </p>
+            <p n="3">
+               <hi>III.</hi> Becauſe the <hi>Ground</hi> or <hi>Cauſe</hi> of the Law, is the bottom or foundation whereon it taketh hold; or it is the ſubject matter againſt which the Law is placed; Therefore as for thoſe Perſons, whoſe Prin<g ref="char:EOLhyphen"/>ciples and Practiſes afford <hi>no ground</hi> nor <hi>bottom</hi> for any ſuch Law, <hi>there</hi> the Law cometh void concerning them. But the <hi>Ground</hi> or <hi>Cauſe</hi> of the coming forth of that <hi>Proclamation,</hi> is ſignified in the <hi>PRO<g ref="char:EOLhyphen"/>CLAMATION,</hi> (viz.) <hi>Becauſe that ſome made ſo ill an uſe of their Liberty, as to take thoſe times as opportunities to Plot a<g ref="char:EOLhyphen"/>gainſt the Peace of their Neighbors</hi> (whom they ought to love as themſelves) But from all ſuch <hi>Practiſes, Plots</hi> or <hi>Conſpiracies,</hi> as to go about, or to compaſs any Hurt, either to the King, or to any of his Subjects, the People called <hi>Quakers,</hi> are wholly free from, both in <hi>Thought, Word</hi> and <hi>Deed;</hi> So the Cauſe of the <hi>Proclamation</hi> touch<g ref="char:EOLhyphen"/>eth not them, therefore they ought <hi>to Meet.</hi>
+            </p>
+            <p n="4">
+               <hi>IV.</hi> Becauſe they are the greateſt Friends to Magiſtracy that may or can be; for their whole <hi>Aim, End</hi> and <hi>Drift</hi> in all their Preaching and Living, is to diſcountenance <hi>Sin</hi> and <hi>Vice,</hi> and to encourage <hi>Ver<g ref="char:EOLhyphen"/>tue</hi> (viz.) <hi>Goodneſs, Meekneſs, Mercy</hi> and <hi>Truth;</hi> together with <hi>Love, Long-ſuffering</hi> and <hi>Patience</hi> exerciſed towards all men, in the true fear of the living God; this is that they ſeek, and in good mea<g ref="char:EOLhyphen"/>ſure find. So <hi>this</hi> being that which the Magiſtrate is to Defend, both the Magiſtrates Work and theirs agree; thus they cleave cloſe to the Magiſtrate <hi>in Subſtance;</hi> and that is more than others who cleave to him <hi>by Flattery,</hi> or for <hi>ſelf Ends;</hi> therefore ought theſe People <hi>to Meet.</hi>
+            </p>
+            <p n="5">
+               <hi>V.</hi> Becauſe (in their Meetings) They Deſire &amp; ſeek <hi>no other Thing,</hi> nor <hi>Liberty</hi> for themſelves, than they are willing all men ſhould have and enjoy; therefore they have right <hi>to Meet.</hi>
+            </p>
+            <p n="6">
+               <hi>VI.</hi> Becauſe in their Meetings they ſeek <hi>the Good of all men,</hi> there<g ref="char:EOLhyphen"/>fore they ought <hi>to Meet.</hi>
+            </p>
+            <p n="7">
+               <hi>VII.</hi> Becauſe in their Meetings they do meet in the Spirit of Truth, therefore they have right <hi>to Meet.</hi>
+            </p>
+            <p n="8">
+               <hi>VIII.</hi> Becauſe that when they Meet, they ſeek to bring others out of their wicked wayes, into the Obedience of the Truth; there<g ref="char:EOLhyphen"/>fore of right they ought <hi>to Meet.</hi>
+            </p>
+            <p n="9">
+               <hi>IX.</hi> Becauſe that in their Meetings they make <hi>No Plots</hi> againſt any mans Perſon or Eſtate; therefore they have right <hi>to Meet.</hi>
+            </p>
+            <p n="10">
+               <hi>X.</hi> Becauſe that in their Meeting together they do nothing againſt the true Peace of this Nation, but ſeek to bring all men into the Peace of God which paſſeth underſtanding; therefore they ought <hi>to Meet.</hi>
+            </p>
+            <p n="11">
+               <hi>XI.</hi> Becauſe in their Meetings they Edifie one another in Love, calling and warning all men to Repent from the wickedneſs of their wayes, and with ſpeed to turn to the Lord before it be too late; there<g ref="char:EOLhyphen"/>fore they ought <hi>to Meet.</hi>
+            </p>
+            <p n="12">
+               <hi>XII.</hi> Becauſe in their Meetings they take Care for the <hi>Poor,</hi> that there may not be a Beggar amongſt them; therefore they ought <hi>to Meet.</hi>
+            </p>
+            <p n="13">
+               <hi>XIII.</hi> Becauſe that in their Meetings they take Care to Pay the Rent of the poor Widows, who are not of Ability to Pay it them<g ref="char:EOLhyphen"/>ſelves; therefore they ought <hi>to Meet.</hi>
+            </p>
+            <p n="14">
+               <hi>XIV.</hi> Becauſe in their Meetings they Provide for ſuch Fatherleſs Children that are amongſt them, who being in want; and do Pay for the Nurſing of ſome, and the Schooling of others, &amp;c. therefore they ought <hi>to Meet.</hi>
+            </p>
+            <p n="15">
+               <hi>XV.</hi> Becauſe that in their Meetings, They take Order and Pro<g ref="char:EOLhyphen"/>vide for ſuch poor People as are amongſt thim, who are out of Work, by ſetting their Families to Work when Work is ſcarce, and by gi<g ref="char:EOLhyphen"/>ving them better Wages then Shop-keepers will; therefore they have right <hi>to Meet.</hi>
+            </p>
+            <p n="16">
+               <hi>XVI.</hi> Becauſe that in their Meetings they Appoint fit Perſons to look to ſuch as are Sick amongſt them, who Adminiſter ſutable Sup<g ref="char:EOLhyphen"/>plies to ſuch, according to their Neceſſities; therefore they have right <hi>to Meet.</hi>
+            </p>
+            <p n="17">
+               <hi>XVII.</hi> Becauſe that in their Meetings they take Care to provide for ſuch young Traders who want Stock, by lending them certain Sums of Money (according to their Capacity who are to uſe it) for a Time freely; therefore they ought <hi>to Meet.</hi>
+            </p>
+            <p n="18">
+               <hi>XVIII.</hi> Becauſe that in their Meetings their Compaſſion is ex<g ref="char:EOLhyphen"/>tended to the Poor who come from beyond the Seas with Letters of Requeſt to this Nation, by a free Contributing to their Neceſſities; therefore they have right <hi>to Meet.</hi>
+            </p>
+            <p n="19">
+               <hi>XIX.</hi> Becauſe they diſown all ſuch amongſt them who walk diſ<g ref="char:EOLhyphen"/>orderly, not becoming the Goſpel of Chriſt; therefore they have right <hi>to Meet.</hi>
+            </p>
+            <p n="20">
+               <hi>XX.</hi> Becauſe they uſe Violence to no man; therefore they ought <hi>to Meet.</hi>
+            </p>
+            <div type="part">
+               <head>Here follows certain Scriptures, which ſhew that the People of the Lord formerly Aſſembled together; And that notwithſtanding they were forbidden by thoſe who were in Power, not to ſpeak <hi>at all</hi> in the Name of Chriſt; yet they choſe rather to obey God than man, as you may read, in <hi>Acts</hi> 4.18.</head>
+               <p>
+                  <label>Verſ. 18.</label> 
+                  <hi>And they called them (viz.</hi> Peter &amp; John) <hi>and commanded them, not to ſpeak <hi>at all,</hi> nor Teach in the Name of Jeſus.</hi>
+               </p>
+               <p>
+                  <label>Verſ. 19.</label> 
+                  <hi>But</hi> Peter <hi>and</hi> John <hi>anſwered and ſaid unto them, Whether it be right in the ſight of God, to hearken unto you more than unto God, judge ye.</hi> See alſo <hi>Acts</hi> 5. verſ. 28.</p>
+               <p>
+                  <label>See <hi>Heb.</hi> 10.24.</label> 
+                  <hi>And let us conſider one another, to provoke one another to Love and to good Works.</hi> (Verſ. 25.) <hi>Not forſaking the Aſſembling of our ſelves together <hi>as the manner of ſome is, but exhorting one ano<g ref="char:EOLhyphen"/>ther; and ſo much the more as ye ſee the Day approaching.</hi>
+                  </hi> (v. 26.) <hi>For if we ſin wilfully after that we have received the knowledge of the Truth, there remaineth no more Sacrifice for ſins.</hi>
+               </p>
+               <p>Which is to ſhew, that it is a wilful ſinning, if ſuch ſhould not (af<g ref="char:EOLhyphen"/>ter they have received the Truth) Aſſemble themſelves together according to <hi>Pauls</hi> Exhortation. Read alſo <hi>verſ.</hi> 27. See alſo <hi>Acts</hi> 12.12.</p>
+               <p>
+                  <label>Acts 28.30, 31.</label> 
+                  <hi>And</hi> Paul <hi>dwelt two full years in his own hired Houſe, and received all that came in unto him, Preaching the Kingdom of God, and Teaching thoſe things which concern the Lord Jeſus Chriſt with all Confidence, <hi>no man forbidding him.</hi>
+                  </hi>
+               </p>
+               <p>Whereby it doth appear, that <hi>Paul</hi> under the <hi>Roman</hi> Governors, <hi>being Heathens,</hi> had more Liberty to <hi>Meet,</hi> than the People cal<g ref="char:EOLhyphen"/>led <hi>Quakers</hi> have here in <hi>England,</hi> being already Deprived of it by ſuch who call themſelves <hi>Chriſtians.</hi>
+               </p>
+               <byline>Written by one who hath good Experience of them, having theſe many years watchfully obſerved them, <hi>THOMAS ATKIN.</hi>
+               </byline>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Wilſon,</hi> at the Sign of the <hi>Black-ſpread-Eagle</hi> and <hi>Wind-mill,</hi> in <hi>Martins Le Grand,</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
